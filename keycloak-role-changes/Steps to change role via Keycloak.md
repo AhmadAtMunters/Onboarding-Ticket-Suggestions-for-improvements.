@@ -2,10 +2,10 @@
 
 
 
-1. Log in to Keycloak
+1. Log in to Keycloak.
 2. Go to "Users" on the left pane.
 3. Select your user profile. 
-4. Navigate to the "Role mapping" tab (top-center-left of the page)
+4. Navigate to the "Role mapping" tab (top-center-left of the page).
 5. Here, you should see all your assigned roles.
 6. To unassign roles, select them and click "Unassign" on the top-center.
 7. To assign roles, click on the "Assign role" button.
@@ -25,5 +25,6 @@
 
 
 Hope that was easy to follow. Thank you.
+
 
 
