@@ -2,7 +2,7 @@
 
 
 
-1. Log into Keycloak
+1. Log in to Keycloak
 2. Go to "Users" on the left pane.
 3. Select your user profile. 
 4. Navigate to the "Role mapping" tab (top-center-left of the page)
@@ -25,4 +25,5 @@
 
 
 Hope that was easy to follow. Thank you.
+
 
