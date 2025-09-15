@@ -25,8 +25,4 @@
 
 
 Hope that was easy to follow. Thank you.
-#### Note: if something was unclear, please download and see the [accompanying video](https://github.com/AhmadAtMunters/Onboarding-Ticket-Suggestions-for-improvements./blob/main/keycloak-role-changes/Changinng%20Roles.zip).
-
-
-
-
+#### Note: if something was unclear, please download and see the [accompanying video](https://github.com/AhmadAtMunters/Onboarding-Ticket-Suggestions-for-improvements./raw/refs/heads/main/keycloak-role-changes/Changinng%20Roles.zip).
